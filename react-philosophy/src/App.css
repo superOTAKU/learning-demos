@@ -1,0 +1,9 @@
+.container {
+  width: 700px;
+  margin: 0 auto;
+}
+
+.item {
+  width: 200px;
+  display: inline-block;
+}
